@@ -1,7 +1,7 @@
 function searchValue() { 
     const apiKey = "05871a22741fed4f47dfdbeee80de637";
     var sVal = document.getElementById("City").value; 
-    const requestUrl = "http://api.openweathermap.org/geo/1.0/direct?q="
+    const requestUrl = "https://api.openweathermap.org/geo/1.0/direct?q="
     fetch(
       requestUrl +
         sVal +
