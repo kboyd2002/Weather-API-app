@@ -1,4 +1,6 @@
 # Weather-API
+![Capture](https://github.com/kboyd2002/Weather-API-app/assets/145223393/693c9347-4249-41ea-b314-7001f19e4096)
+
 
 ## Description
 
